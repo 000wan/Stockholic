@@ -1,0 +1,2 @@
+# Stockholic
+data analysis project
