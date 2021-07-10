@@ -1,8 +1,5 @@
-# Stockholic
+# Stockholic.cpp
 data analysis project
-
- -------- StockHolic.cpp --------
- --------  2302 권영완  --------
 
  About Program: 
  	- 주식시장에서 집중투자와 분산투자의 기대 수익률/리스크 분석 및 비교 
