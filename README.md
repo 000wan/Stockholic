@@ -40,3 +40,6 @@ data analysis project
 				포트폴리오 비교 분석 기능 추가 
 				
  
+
+## Copyright
+	- Copyright© 2021. 권영완. All rights reserved.
